@@ -1,0 +1,11 @@
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/obj/Debug/netcoreapp2.0/Week_4_Course_Project.csprojResolveAssemblyReference.cache
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/obj/Debug/netcoreapp2.0/Week_4_Course_Project.csproj.CoreCompileInputs.cache
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/obj/Debug/netcoreapp2.0/Week_4_Course_Project.AssemblyInfoInputs.cache
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/obj/Debug/netcoreapp2.0/Week_4_Course_Project.AssemblyInfo.cs
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/bin/Debug/netcoreapp2.0/Week_4_Course_Project.deps.json
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/bin/Debug/netcoreapp2.0/Week_4_Course_Project.runtimeconfig.json
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/bin/Debug/netcoreapp2.0/Week_4_Course_Project.runtimeconfig.dev.json
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/bin/Debug/netcoreapp2.0/Week_4_Course_Project.dll
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/bin/Debug/netcoreapp2.0/Week_4_Course_Project.pdb
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/obj/Debug/netcoreapp2.0/Week_4_Course_Project.dll
+/Users/devindistelhorst/Projects/Week_4_Course_Project/Week_4_Course_Project/obj/Debug/netcoreapp2.0/Week_4_Course_Project.pdb
